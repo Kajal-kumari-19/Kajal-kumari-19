@@ -9,7 +9,7 @@
 - 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 - 🌱 Currently learning about **Frameworks & Cloud DevOps**<br/>
 - 💬 Ask me about **ReactJS & Web Development**<br/>
-- 📫 How to reach me [📩](kk@gmail.com)<br/>
+- 📫 How to reach me [📩](kk4101137@gmail.com)<br/>
 - 🌷 #learninginpublic
 
 # 💻 Tech Stack
