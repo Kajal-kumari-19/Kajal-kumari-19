@@ -9,8 +9,7 @@
 - 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 - 🌱 Currently learning about **Frameworks & Cloud DevOps**<br/>
 - 💬 Ask me about **ReactJS & Web Development**<br/>
-- 🔭 I’m currently working on [Solvify](https://github.com/Chandanmajhi7/solvify)<br/>
-- 📫 How to reach me [📩](abhishekbgp8@gmail.com)<br/>
+- 📫 How to reach me [📩](kk@gmail.com)<br/>
 - 🌷 #learninginpublic
 
 # 💻 Tech Stack
@@ -45,5 +44,4 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
 <!-- # 📊 GitHub Stats -->
-![](https://github-readme-stats.vercel.app/api?username=Abhishekbgp8&show_icons=true&card_width=400&theme=tokyonight)
-![](https://github-readme-streak-stats.herokuapp.com?user=Abhishekbgp8&card_width=400&theme=tokyonight)
+
